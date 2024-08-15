@@ -4,5 +4,5 @@ const config = {
     // You can add multiple users by doing username: 'password'.
     illum: "apass",
   },
-}
-export default config
+};
+export default config;
